@@ -38,7 +38,7 @@ header{
     min-height: 5vh;
 }
 .logo{
-    font-size: 4rem;
+    width: 5rem;
 }
 nav ul{
     display: flex;
@@ -61,7 +61,7 @@ nav ul li:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 95vh;
+    min-height: 75vh;
 }
 #blog-banner-setion article{
     flex-basis: 50%;
